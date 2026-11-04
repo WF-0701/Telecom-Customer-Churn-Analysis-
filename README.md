@@ -19,3 +19,21 @@ IBM Telco Customer Churn Dataset.
 Source: https://www.kaggle.com/datasets/blastchar/telco-customer-churn
 Project Status:
 In Progress
+
+
+
+Data Cleaning Initial Assesment:
+Initial overview of data revealed that the 'TotalCharges' column was an object type which was supposed to be a float. Furthermore it had 11 missing values that needed to be handled . The column was converted to numeric and the missing value was replaced to zero as the tenure associated with these rows was also 0 which explains charges being null.
+
+The duplicate check identified zero duplicated rows in the dataset. Additionally, all 7,043 customer records have unique customer IDs.
+
+EDA Finding 1: Overall Customer Churn Distribution
+
+The analysis shows that approximately 73.46% of customers were retained,
+while 26.54% discontinued their services.
+
+Business Insight:
+Approximately one in four customers left the company, indicating a
+significant customer retention challenge. Further analysis will
+investigate which customer segments and service characteristics are
+associated with higher churn rates.
