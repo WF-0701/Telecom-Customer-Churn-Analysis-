@@ -37,3 +37,33 @@ Approximately one in four customers left the company, indicating a
 significant customer retention challenge. Further analysis will
 investigate which customer segments and service characteristics are
 associated with higher churn rates.
+
+EDA Finding 2 : Churn vs Contract Type
+
+The bar chart shows that the 2 year contract types have less churn and month to month based consumers tend to churn on a higher level
+
+Business Insight:
+The company could invest in more loyalty incentives for month to month consumers or get more incentives for long term commitment plans so the churn rate would improve.
+
+EDA Finding 3: Churn vs Customer Tenure
+
+The analysis suggested that the churn rate is higher for customers whose tenure is less than 25 months.
+
+Business Insight:
+The company should look into more engagement programs for these customers and ensure smooth activations to enhance loyalty and in turn reduce churn.
+
+EDA Finding 4: Churn vs Monthly Charges
+
+The analysis suggested that the churn is higher among the customers who pay more. Typically between $55 and $95.
+
+Business Insight:
+
+The company can provide personalized service or exclusive deals to these customers to reduce churn. Also there should be an investigation or a survey on customer satisfaction among these consumers to understand whether its just pricing or overall perceived value is what is causing these consumers to leave. 
+
+EDA Finding 5: Churn vs Payment Method
+
+The analysis suggests that the customers paying through Electronic cheques have significantly higher rate of churn as compared to other payment methods.
+
+Business Insight:
+
+The company could introduce automatic convenient payment methods which may improve churn rate.
