@@ -10,7 +10,7 @@ Identifying patterns and behaviors related to churn
 Developing data driven decision making for customer retention
 Tools Used:
 Python (Numpy, Pandas , Matplotlib)
-SQL(PostgreSQL)
+SQL(DuckDB)
 Google Colab
 Power BI
 Dataset:
@@ -67,3 +67,11 @@ The analysis suggests that the customers paying through Electronic cheques have 
 Business Insight:
 
 The company could introduce automatic convenient payment methods which may improve churn rate.
+
+SQL Analysis:
+
+The SQL Analysis confirmed what Python analysis revealed. The customers whose tenure is between 0-11 months are more likely to leave the company. As the customers with this tenure are leaving at an alarming rate of 48.5%. SQL Analysis also shows that as the tenure increases customers are less likely to leave.
+
+Business Recommendation based on SQL Analysis:
+
+The company can run follow-ups or surveys for consumers in their first 11 months to gauge an understanding of their satisfaction levels in terms of pricing, coverage or overall experience. This will help pin point what is the driving force for these customers to leave.
