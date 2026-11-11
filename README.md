@@ -18,7 +18,7 @@ IBM Telco Customer Churn Dataset.
 
 Source: https://www.kaggle.com/datasets/blastchar/telco-customer-churn
 Project Status:
-In Progress
+Completed
 
 
 
