@@ -88,7 +88,10 @@ Business Recommendation based on SQL Analysis:
 
 The company can run follow-ups or surveys for consumers in their first 11 months to gauge an understanding of their satisfaction levels in terms of pricing, coverage or overall experience. This will help pin point what is the driving force for these customers to leave.
 
-Power BI Dashboard
+Hex/SQL Notebook link: https://github.com/WF-0701/Telecom-Customer-Churn-Analysis-/blob/main/Notebooks/Churn%20Analysis(Hex%20notebook).ipynb
+
+
+Power BI Dashboard:
 
 I used Power BI to bring the analysis together in an interactive dashboard.
 
