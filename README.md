@@ -113,7 +113,7 @@ Average Monthly Charges by Churn Status.
 
 The dashboard provides a visual summary of the analysis and makes it easier to identify customer groups that may require additional attention.
 
-![Customer Churn Dashboard](PowerBI/dashboard_screenshot.png)
+![Customer Churn Dashboard](PowerBI/dashboard for git.png)
 
 Conclusion:
 
