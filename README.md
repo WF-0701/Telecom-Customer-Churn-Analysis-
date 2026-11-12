@@ -113,6 +113,8 @@ Average Monthly Charges by Churn Status.
 
 The dashboard provides a visual summary of the analysis and makes it easier to identify customer groups that may require additional attention.
 
+https://github.com/WF-0701/Telecom-Customer-Churn-Analysis-/blob/main/PowerBI/dashboard%20for%20git.png
+
 Conclusion:
 
 Working through this project helped me understand how Python, SQL and Power BI can be used together to investigate a business problem.
