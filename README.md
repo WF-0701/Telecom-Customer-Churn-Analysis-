@@ -113,7 +113,7 @@ Average Monthly Charges by Churn Status.
 
 The dashboard provides a visual summary of the analysis and makes it easier to identify customer groups that may require additional attention.
 
-![Customer Churn Dashboard]https://github.com/WF-0701/Telecom-Customer-Churn-Analysis-/blob/main/PowerBI/dashboard%20for%20git.png
+![Customer Churn Dashboard](PowerBI/dashboard_screenshot.png)
 
 Conclusion:
 
