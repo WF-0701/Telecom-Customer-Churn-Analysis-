@@ -68,7 +68,7 @@ Business Insight:
 The company could introduce automatic convenient payment methods which may improve churn rate.
 
 Python notebook link: 
-
+https://github.com/WF-0701/Telecom-Customer-Churn-Analysis-/blob/main/Notebooks/Customer_churn_analysis(Python).ipynb
 
 SQL Analysis:
 
