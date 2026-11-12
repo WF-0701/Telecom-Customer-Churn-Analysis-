@@ -90,6 +90,8 @@ The company can run follow-ups or surveys for consumers in their first 11 months
 
 Hex/SQL Notebook link: https://github.com/WF-0701/Telecom-Customer-Churn-Analysis-/blob/main/Notebooks/Churn%20Analysis(Hex%20notebook).ipynb
 
+SQL queries script: https://github.com/WF-0701/Telecom-Customer-Churn-Analysis-/blob/main/SQL/Customer%20Churn%20Analysis.sql
+
 
 Power BI Dashboard:
 
